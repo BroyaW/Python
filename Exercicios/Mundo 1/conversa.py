@@ -1,0 +1,6 @@
+a=str (input('oi tudo bem? ')) 
+a=str (input('quer ser meu amigo? '))
+a=str (input('oque vc esta fazendo? '))
+a=str (input('vou te contar uma piada '))
+a=str (input('por que o menino estava falando ao telefone deitado? '))
+print ('para nao cair a ligaçao')
